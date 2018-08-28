@@ -64,7 +64,7 @@ key: "c01b49bf3a"
 ```
 
 `@part1`
-![](image-url)
+![](https://lh3.googleusercontent.com/pKXkdVwoDGwo4laiCFcuDAlRb9bYinPt3DoGwyKyXy77wh7HHeaSnRoaomFYl7IazQfAG--KM5KR5vNhwPZbJX6xhoh0uPU8phpMq80qTd092k5Z9lWx3y0T_XKGG8EOgO806kQlfzGEgRsbBs7oGtW_01Nuk8KAR8kGfkq7nWwJTidtI1PgtDf2Ap6jrVPbsla4KVpwcXv1pgwiYYgxVHH2ClnfeRojQ3Rxq7tvv-G1Gov3su2lECRJAVlnmT08kbmRrdFBqMYklG20HtJ0EYmaVjGHZuQMWT8BEl03j_Pozm5xQXrElQoanTGLySyQW9QX8gJCmGT5MhgRMofLzv-vE5wm_m3lFMpi_-YEkUSXX3iQa1y2VHVz_dA2btMlKBrMxP8RTYEMAd1fAv0G-WDSqVy0MOraTtFNl_1Rby1PF4D9zSbLGqDGS-lindNE-q685CIsGM01rdfQ0zRQhAn0L8vgpb-SF7ZbI58KIZSHURcyBdDUUBHkFCK73FoVjEG0ILldUIcQPAcFvdhMmuThbpyBA-ZoNG2qDV_lMsY7dHS0b66MamtYUBjzpPHkMEUoO7gwOFAZKzTC41y_aE9JDwic5kpXYnkxV9RKvBs1cQi3cfKwlFShGgRGuAC-=w315-h373-no)
 
 
 `@script`
@@ -80,7 +80,7 @@ key: "98132bd178"
 ```
 
 `@part1`
-![](image-url)
+![](https://lh3.googleusercontent.com/hoeKtqvKWuOT3yP-13jUGAk2q910xiTpEIEhlIfqqP6-5SedOBrf983Cso8Ans1tp5ytlle_sglxrT7iwH22zQNEZqDqLbk8qlwCJGdj7ayEuHinmJUn2ywqaotcIWiU0S2NmI2C0AKY4EwH_fMLnDLO9bdnvzttzeOs1yBBalHAK7wUPndvRnmt49eWcGE5MvxSbmn_b6BIQLB1-lBX2FL_ZJ3_Zda7xbe3OoKWoi6_ybys9-sXLxNUe0_lpHPvu29dD4vhAqZfv7qmcMzo_QbqTsoSZ5z9GQVu7gw618cAFE2GRtGxw47m7mP1fOe17cJMxKQAhqbyh3CZjRy_jmeiJR6vN_qM7tWclcwBA7StRrApX2Yarta7XoLZnBIS9KvOEL1oIcmbXK8nBVSbftBQK_E3pCDMQbbwf5-v1NcYwGCJ22PxsqTfQoLgKyECHaH2pR3fnHpb9h0nBgV4kdco1oTLSMCPf0VIGu9GEbOHnRF3KSohdp3_YaxrjRILIdwMUpV78I4zrDdUSF4LpxHGVsC7noOFzxNma3rGaxAlqcdKIDR4h9WIV_pj_5XUcPAWsbJednBzhqt3fnKvFty5Q5PsfO37lRbNevpJClL5CM0bhoXcFZPg3RaWyskG=w498-h291-no)
 
 
 `@script`
@@ -112,7 +112,7 @@ key: "1b4c14c716"
 ```
 
 `@part1`
-![]()
+![](https://lh3.googleusercontent.com/qlLH3fzzy7lsPRiBawrIpeku2z27DjQSY0jim592Q9M-2g90X-T678Ou2Rtik2hYfNV07m1ee5IOkU829gbRf5JWOJQk7ZVX5z758z9aMJCwQfAYMMU8dBhCsNM1zxZxEoFghy1-2WHlsR-z_ZvznjBnU6rzVzc_fKTD4i7hsM2E7iLjkRtG7cXAkVTKV0X-SUZi78S8ey-oOkuNXcWpmSQrulhnZRShnlNq3Y4GPcJS1T08y3-d-dUXX6k2D2HsdQNomWYhNizPotTeK5zOG6oh6CHwhzfu_ufZ2W2RSSjKZH4Ji2yij3Tt07mQSA-OoA-SYoOH-LgxX7i8fleL5Cmdd7bod9vAELEJTCHEw5HwZI6XiX3SlrZN3uzWRreXu0_ndYcr8ifI8aX5VIrQ5NhbT5NU39bemNEVNcb-Xee1LmbE3UKEsGfsxhCc6lDq8fBpIWYdIaGORCPjmT6fzYN6b3f751BqC48Fva7G_CiXK93heHl3AF6sDYtoXgHz5I9FjKB2qc5rNhAZdSaj0f27yJA7KuWVN-qIdwW-3DmMfJ587mVOrKDwzeoBH37yOX31kavTVsJktbxwkS6USbNwPNxDNObO_OYVUHyiHSNcpY4ZLMgzwsBkzcqxafI6=w809-h388-no)
 
 
 `@script`
@@ -136,6 +136,22 @@ key: "f771be3a2b"
 
 
 ---
+## Step 4: Click "Save."
+
+```yaml
+type: "FullSlide"
+key: "f9c475f976"
+```
+
+`@part1`
+![](https://lh3.googleusercontent.com/DQWURHu5_Y3qL_Nx2rk29znbPTmvAuMTE264-N0v_T4AC0Q88gdALELUem_e-1-3lza2Rnxhdu7Lqfgkpe1S8U91IO1Z--flC1cmTi_2A4FlDvAub7j-iEYQVjPdrbrMoQBxBM-DIAaFNlRyyHBWxtvXzRmd4WnHoiwW6Rog86pj-89USTYr6fQqodqeimIs45JFXfTqAAgHtAaWRRIHeqPysqPmo8BZ_CD8pFlDVTJvXKx6D1gNpRzr1qrqhGgy9ac_4YBPwa0NCjfTGYD9DSKZxTyargRstTUgFnH0P_GVK_wcsQahhPGwnvuRzmuCtzkmvQF2VMzWQJlgQ9j9sJqwI5oU5WINwU_WgIuN3hq_Neu3KqA6isStY7RL20rI0OmF1zebrHYtbToZA7UM4DgAL-gzCKZXiAPj5GmKM5eyoo9LHDy5fHDaZd8j8qZ1caQ01dEAqN5qwI1hEskCI6TvjK5bzgyWYXWUbngePF3kkTL3ntOrV3uvO0271ygLhic4wta63mq-ceUbRLDDiyeD_cvwMihz5_5HJu3uLOtq3PGgBr_wFUBueziOayNzxo-k_W697JrwoxA9ACkdHzF--sBc5FWBvF85dDPGyl9U3O5SM9Nb3g6wOJozUt1T=w746-h206-no)
+
+
+`@script`
+
+
+
+---
 ## Quality assurance can make data entry easier and more robust.
 
 ```yaml
@@ -145,7 +161,7 @@ center_content: false
 ```
 
 `@part1`
-![](https://www.dropbox.com/s/qu689bkg38b2xho/animal-names.jpg?dl=0)
+![](https://lh3.googleusercontent.com/YER68a_pJ3P4ldMAcZE_YvKDn8j5m6biKzjV4nBS-skJRMfVUn7TXpTg_nU3cxjFDcdiDighTFnvHlC3yzmEcvuZ4yw3EztyEOCga7Mr-WVQRT9TxZ6gz7NHk-un2Xo2sOPk_mrBY9GcBP1Zj14CYBra_tjG-uguMLAOMfoS0JIOBcztzDDljsFZAll0Eg_N0g5traYiuIz7phv_aPIcbCniIXZJxhPXogVC7SuSFypdZ371Nko2whEAxo9sZP2kc4CsYKrYQfzftZjDydys9CkevI29ggQV1JiJRLGYW_AVWVMYBxWacrbtJU2t5zmfOsREdL8m6EqKXU4WmeOzLNWDuii4kSb8iBqyxre3RV4B0mZQyg8GrnfCp-UD8NQCeRoS-s7D2KUcAcG9xiDPB_nVYI6pfBLXI2Ov9NPtF89MF93BTuq-Djsyn3GwTqbqBJbLcAhOJdwjLwDBUZq81rY7ALlCW1QmdBSWL5jSn03wZsMkWhkxR2oYchhzGurCRyHfzyESsROjnRCijVjqrcp0KjjnQ7OTTEWZcBUI7SmadQVVdEMP81bEBTFabmdqOQ3AlyrygW4_vhcwupWNWDjfW8N9n6a_UIgnidZR4n8ev9SyE2zbAoGlfjPrRnkR=w152-h187-no)
 
 
 `@script`
