@@ -10,7 +10,7 @@ type: NormalExercise
 lang: r
 xp: 100 
 skills: 1
-key: 16a25e731e   
+key: 8d163d2fbc   
 ```
 
 
@@ -70,3 +70,15 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 ```
 
 
+---
+
+## Application: Data Organization in Spreadsheets
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 0be00edbda   
+```
+
+`@projector_key`
+7fbcdd443112adfc8f128314a81d95dc
