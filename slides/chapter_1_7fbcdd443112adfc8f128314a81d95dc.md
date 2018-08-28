@@ -96,7 +96,7 @@ key: "ad9808d0c1"
 ```
 
 `@part1`
-![](image-url)
+![](https://lh3.googleusercontent.com/N64ZFIuaRMNAV6Req72LWO342u1mbhv75NbdndXrebnSCZ_XReSnWXVDGTeC8K6Dj1VxCVyckpiEMc_dOtG5RoWUF1v4dNem-WEoibX-zzIpkedHuMp6wIJ6Hdg5hcbXNBGI1HKV2ohousCNejLukC0uZwH-MDjV4RENI0Oap1h7uGuVZqhXprhfaSriv8aFXjKHjJ88RERsHahG0I0etwRbRWXvRpoLxhj507qcr1DfTf15LFT_JOQMJZn6E7Vpsmn-MOMiIZHG4PSgg08klXmiGWFWwbXb88A-PUQF0bskoJGhM2k09jg09TOQuUdf8pK9Z3sHjMN0yGjSJmnah4Fq2yXD3Y4bs-4Fxjjl8Tn_vL0CRv9dj5kDnihHu3FddFhYNC4nDKoxBPtYi3f_IFaLR_TY1Kc_JY0nHZofwZ9fU6-NLMZp-K51yqBKM8G-kMcVQFPk6OxSqZyBapPG2a3y9XE3qHD4cl9Vr4l15eisW6NEqfGodonNtPqp4bi7QNnP9bII9anDqP2e-90o0AVcmYr4328lah12HWRoSMOq4S22yT57X0HBt8WMtEmOUlgKQi-1OcjJSXAqdGhprtUGcAgutZRQu3Mo0vuCLkAoPT9_ReJh6PLPjHfb9JtA=w809-h425-no)
 
 
 `@script`
@@ -112,7 +112,7 @@ key: "1b4c14c716"
 ```
 
 `@part1`
-![](image-url)
+![]()
 
 
 `@script`
@@ -145,7 +145,7 @@ center_content: false
 ```
 
 `@part1`
-![](image-url)
+![](https://www.dropbox.com/s/qu689bkg38b2xho/animal-names.jpg?dl=0)
 
 
 `@script`
