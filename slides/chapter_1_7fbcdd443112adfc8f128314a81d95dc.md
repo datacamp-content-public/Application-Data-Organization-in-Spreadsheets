@@ -145,7 +145,7 @@ center_content: false
 ```
 
 `@part1`
-![](https://drive.google.com/file/d/10RrYGp-ggO49GgckPxYyueZ4cg_Ehoub/view?usp=sharing)
+![](image-url)
 
 
 `@script`
